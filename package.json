@@ -1,0 +1,18 @@
+{
+  "name": "prime-number-checker",
+  "version": "1.0.0",
+  "description": "A high-performance Node.js module to check whether a given number is prime.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "prime",
+    "prime-number",
+    "checker",
+    "math",
+    "npm-module"
+  ],
+  "author": "Ulrich ADIMI",
+  "license": "MIT"
+}
